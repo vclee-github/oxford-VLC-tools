@@ -20,7 +20,7 @@ Instruments:
   - 2.5GHz (USB)
   - 33GHz (Pair A) (USB)
 - optical spectrum analyzer
-  - Agilent 86142B
+  - Agilent 86142B (USB/GPIB)
 
 
 TODOs:
