@@ -19,7 +19,7 @@ Instruments:
 - oscilloscope
   - 2.5GHz (USB)
   - 33GHz (Pair A) (USB)
--optical spectrum analyzer
+- optical spectrum analyzer
   - Agilent 86142B
 
 
