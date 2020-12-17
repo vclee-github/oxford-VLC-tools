@@ -4,7 +4,10 @@
 %THIS CODE IS FOR R2018b. SOME FUNCTIONS WILL NOT WORK IN NEWER MATLAB
 %VERSIONS.
 
-%This R2018b code will capture and save the waveform on the Agilent 86142B OSA 
+%This R2018b code will capture the spectrum trace on the Agilent 86142B OSA
+%and save the trace x and y values (wavelength and power) to text files in csv format. 
+%There will be 2 files: wide spectrum and then narrow spectrum, and each span can be 
+%configured. The code will also plot the same traces in Matlab.
 
 %Start by running GPIB Configurator for the Prologix Controller by itself.
 %Set up the parameters for the Prologix device as Controller and the GPIB
