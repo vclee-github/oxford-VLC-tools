@@ -21,7 +21,7 @@ Instruments:
   - 33GHz (Pair A) (USB)
 - optical spectrum analyzer
   - Agilent 86142B (USB/GPIB)
-
+- ID900 Time Controller
 
 TODOs:
 - [ ] Add code for everyone's instruments
